@@ -1,0 +1,12 @@
+.menuHeader{
+    display: flex;
+}
+
+a {
+    cursor: pointer;
+}
+
+.wrapClose {
+    display: flex;
+    justify-content: flex-end;
+}

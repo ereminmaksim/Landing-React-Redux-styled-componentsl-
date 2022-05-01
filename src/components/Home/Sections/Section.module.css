@@ -1,0 +1,19 @@
+.btn {
+    font-size: 12px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.btnRight {
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    color: black;
+}
+ .middleBtnRight {
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    color: black;
+}
